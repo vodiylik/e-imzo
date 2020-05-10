@@ -1,0 +1,11 @@
+Package: e-imzo
+Version: 3.41
+Provides: e-imzo
+Depends: openjdk-11-jre
+Maintainer: Umidjon Almasov <umidjonalmasov@gmail.com>
+Architecture: all
+Section: web
+Description: Barcha davlat va xo'jalik boshqaruvi organlari, davlat hokimiyati mahalliy organlari va tijorat banklari rasmiy veb-saytlar va portallar foydalanuvchilarini elektron raqamli imzo orqali identifikasiyalash uchun dastur.
+Installed-Size: 12800
+Priority: optional
+

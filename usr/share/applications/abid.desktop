@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=E-IMZO
+Comment=Elektron raqamli imzo orqali identifikasiyalash uchun dastur
+Keywords=eri;elektron;
+Icon=e-imzo
+Type=Application
+Categories=Network;
+Exec=/opt/E-IMZO/E-IMZO.sh
+Terminal=false
