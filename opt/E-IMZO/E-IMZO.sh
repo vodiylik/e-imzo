@@ -5,7 +5,7 @@ if [ -d /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin ];
 	ln -sf /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java ./java
 	./java -jar E-IMZO.jar
 else
-    cd ~/E-IMZO
+    cd /opt/E-IMZO
 	java -jar E-IMZO.jar
 fi
 
