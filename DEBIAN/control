@@ -1,7 +1,7 @@
 Package: e-imzo
 Version: 3.41
 Provides: e-imzo
-Depends: openjdk-11-jre
+Depends: default-jre
 Maintainer: Umidjon Almasov <umidjonalmasov@gmail.com>
 Architecture: all
 Section: web
